@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/cssBoxModel.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/cssBoxModel.html",
+		"oF": 0
+		},
 	"\/Imgs\/puppy.jpeg": {
 		"ft": 16384,
 		"iS": 8894,
@@ -33,6 +40,36 @@
 		"oA": 0,
 		"oAP": "\/media\/171124_C1_HD_012.mp4",
 		"oF": 0
+		},
+	"\/stylesheets\/css\/boxModel.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/stylesheets\/boxModel-min.css",
+		"oF": 2,
+		"oS": 3
+		},
+	"\/stylesheets\/css\/master.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/stylesheets\/master-min.css",
+		"oF": 2,
+		"oS": 3
+		},
+	"\/stylesheets\/master-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/stylesheets\/master-min-min.css",
+		"oF": 0,
+		"oS": 3
 		}
 	},
 "hooks": [

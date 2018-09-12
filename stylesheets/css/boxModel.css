@@ -1,0 +1,36 @@
+/* * CSS BOX MODEL CSS FILE * */
+
+body{
+  height: 100vh;
+  width: 100vw;
+}
+
+div{
+  height: 70px;
+  width: 70px;
+}
+
+#box {
+  height: auto;
+  padding: 10px;
+}
+
+.roundedRect{
+  border-radius: 5px;
+}
+
+.bckBlue{
+  background-color: blue;
+}
+
+.bckRed{
+  background-color: red;
+}
+
+.slimBorder{
+  border: solid 3px black;
+}
+
+.boxSizing{
+  box-sizing: border;
+}
